@@ -2,4 +2,4 @@ Projeto desenvolvido em C# - API com C# utilizando RESTSHARP, com objetivo de co
 
 Projeto configurando dados de requisição e resposta com mapeamento JSON e tipos complexos.
 
-Consome os dados gerados pela API CarApi - https://github.com/EdsonCMFerreira/CarApi 
+O Projeto ClientApiChampionsDevs se integra com os endpoint's da API CarApi que está em https://github.com/EdsonCMFerreira/CarApi 
